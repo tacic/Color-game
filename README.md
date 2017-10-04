@@ -10,9 +10,10 @@ EASY
 
 MEDIUM
 
-![untitled](https://user-images.githubusercontent.com/31318398/31197333-069afbf2-a951-11e7-8a08-861ce242b06d.png)
+![untitled2](https://user-images.githubusercontent.com/31318398/31197334-06bf4598-a951-11e7-9d20-098c353160e6.png)
 
 HARD
 
+![untitled](https://user-images.githubusercontent.com/31318398/31197333-069afbf2-a951-11e7-8a08-861ce242b06d.png)
 
 
